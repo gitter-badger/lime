@@ -4,6 +4,7 @@
 
 
 # What is Lime?
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/a-bougouffa/lime?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 I love the [Sublime Text](http://www.sublimetext.com) editor. [I have](https://github.com/quarnster/SublimeClang) [created](https://github.com/quarnster/SublimeJava) [several](https://github.com/quarnster/CompleteSharp) [plugins](https://github.com/quarnster/SublimeGDB) [to make](https://github.com/quarnster/ADBView) it even better. One thing that scares me though is that it is not open sourced and the [pace of nightly releases](http://www.sublimetext.com/nightly) have recently been anything but nightly, even now that version 3 is out in Beta.
 
